@@ -1,7 +1,7 @@
 {
     "name": "my-app",
     "version": "0.1.0",
-    "homepage": "https://teeranatt.github.io/commath-pj/",
+    "homepage": "https://teeranatt.github.io/commathpj/",
     "private": true,
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.4",
